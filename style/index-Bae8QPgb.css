@@ -945,10 +945,7 @@ h1[data-v-9de63167] {
   aspect-ratio: 1/1;
   margin: 0 auto;
   cursor: pointer;
-  border: 20px solid #ddd6c5;
   border-radius: 265%;
-  background: linear-gradient(180deg, #b1ab9d, #9c978f);
-  box-shadow: 0 0 1px #0006 inset;
 }
 div.vote-amount[data-v-9175a72f] {
   display: flex;
