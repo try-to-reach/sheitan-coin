@@ -747,21 +747,21 @@
   font-family: IRANSansX;
   font-style: normal;
   font-weight: 100;
-  src: url(/style/IRANSansX-Regular-BZyMT1vE.woff) format("woff"),
+  src: url(/assets/IRANSansX-Thin-DCSWNswV.woff) format("woff"),
     url(/assets/IRANSansX-Thin-BunpvZz5.woff2) format("woff2");
 }
 @font-face {
   font-family: IRANSansX;
   font-style: normal;
   font-weight: 200;
-  src: url(/style/IRANSansX-DemiBold-B4vQfsv_.woff) format("woff"),
+  src: url(/assets/IRANSansX-UltraLight-XbcQ_OJr.woff) format("woff"),
     url(/assets/IRANSansX-UltraLight-BsYMOkNy.woff2) format("woff2");
 }
 @font-face {
   font-family: IRANSansX;
   font-style: normal;
   font-weight: 300;
-  src: url(/style/IRANSansX-Bold-F4r9hbqd.woff) format("woff"),
+  src: url(/assets/IRANSansX-Light-DZHCBtJs.woff) format("woff"),
     url(/assets/IRANSansX-Light-Dir8Id9M.woff2) format("woff2");
 }
 @font-face {
@@ -876,7 +876,7 @@ img.center {
   background: #555;
 }
 a.router-link-active span {
-  color: #fff;
+  color: #8e99abcc;
 }
 a:not(.router-link-active) span {
   color: #8e99abcc;
@@ -895,7 +895,6 @@ nav[data-v-2f78d85a] {
   max-width: 100%;
   padding: 8px;
   min-height: 70px;
-  background: #1e232a;
   border-radius: 8px;
 }
 nav[data-v-2f78d85a] a[data-v-2f78d85a] {
@@ -907,7 +906,7 @@ nav[data-v-2f78d85a] a[data-v-2f78d85a] {
   text-decoration: none;
   place-items: center;
   padding: 8px;
-  color: #fff;
+  background-color: black;
   -webkit-user-select: none;
   user-select: none;
 }
@@ -928,7 +927,6 @@ nav[data-v-2f78d85a] a[data-v-2f78d85a][data-v-2f78d85a]:focus {
 nav[data-v-2f78d85a] a[data-v-2f78d85a].router-link-active[data-v-2f78d85a] {
   row-gap: 4px;
   height: 68px;
-  background: #16191d;
   border-radius: 8px;
 }
 h1[data-v-9de63167] {
