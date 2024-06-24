@@ -876,7 +876,7 @@ img.center {
   background: #555;
 }
 a.router-link-active span {
-  color: #fff;
+  color: #8e99abcc;
 }
 a:not(.router-link-active) span {
   color: #8e99abcc;
@@ -2048,6 +2048,9 @@ p[data-v-e1e9c15c] {
 }
 .yekhat{
   display: flex;
-  text-align: center; }
-.yekhat h1{    margin-right: 6px;
+  justify-content: center;
+  text-align: center;
+}
+.yekhat h1{
+  margin-right: 6px;
 }
