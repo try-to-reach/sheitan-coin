@@ -895,6 +895,8 @@ nav[data-v-2f78d85a] {
   max-width: 100%;
   padding: 8px;
   min-height: 70px;
+  
+  background-color: #16191d;
   border-radius: 8px;
 }
 nav[data-v-2f78d85a] a[data-v-2f78d85a] {
