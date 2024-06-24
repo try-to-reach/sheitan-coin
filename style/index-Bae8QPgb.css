@@ -876,7 +876,7 @@ img.center {
   background: #555;
 }
 a.router-link-active span {
-  color: #8e99abcc;
+  color: #fff;
 }
 a:not(.router-link-active) span {
   color: #8e99abcc;
@@ -895,7 +895,6 @@ nav[data-v-2f78d85a] {
   max-width: 100%;
   padding: 8px;
   min-height: 70px;
-  
   background-color: #16191d;
   border-radius: 8px;
 }
@@ -908,7 +907,7 @@ nav[data-v-2f78d85a] a[data-v-2f78d85a] {
   text-decoration: none;
   place-items: center;
   padding: 8px;
-  background-color: #16191d;
+  color: #fff;
   -webkit-user-select: none;
   user-select: none;
 }
